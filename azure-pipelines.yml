@@ -5,6 +5,7 @@
 
 trigger:
 - main
+- merge-group/main/*
 
 pool:
   vmImage: ubuntu-latest
