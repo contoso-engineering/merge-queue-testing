@@ -1,4 +1,4 @@
 # merge-queue-testing
 
-asdfasf
+Amazing!
 
