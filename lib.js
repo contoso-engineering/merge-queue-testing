@@ -1,6 +1,5 @@
 
-const calculate = (a, b) => {
+export const calculate = (a, b) => {
     return a + b;
 }
 
-exports.calculate = calculate;

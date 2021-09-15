@@ -1,10 +1,10 @@
-const assert = require('assert');
-const lib = require('../lib');
+import { strictEqual } from 'assert';
+import { calculate } from '../lib.js'
 
 describe('lib', () => {
   describe('#calculate', () => {
     it('two numbers', function() {
-      assert.strictEqual(lib.calculate(1, 1), 2);      
+      strictEqual(calculate(1, 1), 2);      
     });
   });
 });
