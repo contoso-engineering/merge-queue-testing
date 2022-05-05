@@ -1,0 +1,26 @@
+{
+  "name": "merge-queue-testing",
+  "version": "1.0.0",
+  "main": "lib.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willsmythe/merge-queue-testing.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willsmythe/merge-queue-testing/issues"
+  },
+  "homepage": "https://github.com/willsmythe/merge-queue-testing#readme",
+  "dependencies": {
+    "mocha": "^9.1.1"
+  }
+}
