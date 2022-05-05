@@ -10,7 +10,7 @@
 ### Create branches and pull requests
 
 ```bash
-git fetch origin
+git fetch originasasdf
 git checkout -B main a30d956852b707e79e8c86f666e5b8f5b58af481
 git commit --allow-empty -m "Empty commit to ensure new refs and checks are always run"
 git push origin main --force -u
